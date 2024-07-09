@@ -218,7 +218,7 @@ $hasil = mysqli_query($con, $sql);
                             Undergraduate Information System
                         </p>
                         <p class="text-blk feature-text" style="line-height: 20px; font-size:12px;">
-                            "It's okay, sometimes you just need to give yourself a break."
+                            "Never too late to learn"
                         </p>
                         <div class="social-icons">
                             <a href="mailto:22082010156@student.upnjatim.ac.id" target="_blank" style="margin-right: 10px">
